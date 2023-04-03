@@ -1,0 +1,20 @@
+.primary-background{
+-fx-background-color:#fa7700 ;
+}
+.secondary-background{
+-fx-background-color:#FBF9F6 ;
+}
+.white-background{
+-fx-background-color:#fff;
+}
+.transparent{
+-fx-background-color: rgba(0,0,0,0) ;
+}
+.right-bar-background{
+-fx-background-color:#fff;
+-fx-border-style : hidden solid hidden hidden ;
+}
+.top-bar-background{
+-fx-background-color:#fff;
+-fx-border-style : hidden hidden solid hidden ;
+}
